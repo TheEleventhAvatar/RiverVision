@@ -1,6 +1,6 @@
 # RiverVision
 
-RiverVision is a browser-first, human-reviewed stream photo assessment demo.
+RiverVision is a browser-first, human-reviewed stream photo assessment site.
 
 ## Run locally
 
